@@ -1,0 +1,10 @@
+{
+  "name": "google-trends-mcp",
+  "description": "Google Trends inside Claude Code. Interest over time, related and rising queries, interest by region, and what is trending now. No API key: it reads the public Trends endpoints through pytrends.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Lawrence Hitches",
+    "url": "https://www.lawrencehitches.com/#person"
+  },
+  "keywords": ["seo", "google-trends", "keyword-research", "mcp"]
+}
