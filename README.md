@@ -18,8 +18,11 @@ you when it has been throttled rather than returning a silent empty result.
 ## Install
 
 ```
+/plugin marketplace add lhitches/claude-seo-plugins
 /plugin install google-trends-mcp@lhitches
 ```
+
+The first line adds the lhitches marketplace once; it also lists the other plugins at https://www.lawrencehitches.com/claude-seo-plugins/
 
 Then `pip install -r requirements.txt` in the plugin directory, or point the server at a
 Python that already has `pytrends` and `mcp` available.
